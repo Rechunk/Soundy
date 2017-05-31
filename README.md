@@ -1,8 +1,5 @@
-# Soundy
+# Soundy (Temp)
 
-A new flutter project.
+Mobile clicking game, that combines sound and multiplayer 1v1.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+## Game under development
